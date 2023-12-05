@@ -1,2 +1,2 @@
 # Delta-Demo
-This is delta demo purpose.
+This is delta demo purpose...
